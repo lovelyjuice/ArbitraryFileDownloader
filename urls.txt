@@ -1,0 +1,4 @@
+http://www.test.com/admin/down.php
+http://www.test.com/admin/index.php
+http://www.test.com/admin/article.php?id=5
+http://www.test.com/admin/article.php?id=6&is_mobile=1
